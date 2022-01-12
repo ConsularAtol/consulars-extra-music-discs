@@ -1,0 +1,10 @@
+{
+"itemGroup.extrafoods.extrafoods": "Extra Foods",
+
+"item.extrafoods.raw_bat" : "Raw Bat",
+"item.extrafoods.cooked_bat" : "Cooked Bat",
+"item.extrafoods.raw_horse" : "Raw Horse",
+"item.extrafoods.cooked_horse" : "Cooked Horse",
+"item.extrafoods.raw_squid" : "Raw Squid",
+"item.extrafoods.cooked_squid" : "Cooked Squid"
+}
